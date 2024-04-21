@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>registerplus</name>
+	<displayName><![CDATA[Captcha]]></displayName>
+	<version><![CDATA[1.0.0]]></version>
+	<description><![CDATA[Modulo para añadir un captcha al formulario de contacto]]></description>
+	<author><![CDATA[Sebastian Luna]]></author>
+	<tab><![CDATA[administration]]></tab>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+</module>
